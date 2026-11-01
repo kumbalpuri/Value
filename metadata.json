@@ -1,0 +1,6 @@
+{
+  "name": "VSM Studio & Lean Optimizer",
+  "description": "Enterprise Value Stream Mapping tool to auto-generate authentic Lean VSM diagrams, track Kaizen bursts, compare Current vs. Future states, and archive organizational maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
